@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-23T22:07:55 IST" name="Default suite" finished-at="2023-06-23T22:07:55 IST" duration-ms="110">
+    <groups>
+    </groups>
+    <test started-at="2023-06-23T22:07:55 IST" name="Default test" finished-at="2023-06-23T22:07:55 IST" duration-ms="110">
+      <class name="NewDemo">
+        <test-method is-config="true" signature="logIn()[pri:0, instance:NewDemo@2f9f7dcf]" started-at="2023-06-23T22:07:55 IST" name="logIn" finished-at="2023-06-23T22:07:55 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="addItem()[pri:1, instance:NewDemo@2f9f7dcf]" started-at="2023-06-23T22:07:55 IST" name="addItem" finished-at="2023-06-23T22:07:55 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItem -->
+        <test-method signature="addVendor()[pri:2, instance:NewDemo@2f9f7dcf]" started-at="2023-06-23T22:07:55 IST" name="addVendor" finished-at="2023-06-23T22:07:55 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addVendor -->
+        <test-method signature="addPayment()[pri:3, instance:NewDemo@2f9f7dcf]" started-at="2023-06-23T22:07:55 IST" name="addPayment" finished-at="2023-06-23T22:07:55 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPayment -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:NewDemo@2f9f7dcf]" started-at="2023-06-23T22:07:55 IST" name="logOut" finished-at="2023-06-23T22:07:55 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- NewDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
